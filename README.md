@@ -1,2 +1,2 @@
 # FocusBubble
- a productivity google chrome extension which blocks distracting websites
+ A productivity google chrome extension which blocks distracting websites
